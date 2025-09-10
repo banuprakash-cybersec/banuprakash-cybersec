@@ -12,7 +12,7 @@ This project demonstrates how to build a fully open-source **SOC (Security Opera
 The goal: **Automated detection + response for enterprise & IoT environments**.
 
 
-## 🏗 Architecture
+## Architecture
 ![SOC Architecture](architecture/soc-architecture.png)
 
 
