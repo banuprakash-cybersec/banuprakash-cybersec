@@ -1,4 +1,4 @@
-Open SOC & XDR Lab 🚀
+Open SOC & XDR Lab 
 
 ##  Overview
 This project demonstrates how to build a fully open-source **SOC (Security Operations Center)** with **XDR capabilities**, using:
