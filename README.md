@@ -16,7 +16,7 @@ The goal: **Automated detection + response for enterprise & IoT environments**.
 ![SOC Architecture](architecture/soc-architecture.png)
 
 
-## 🔧 Components
+##  Components
 
 ### 1. Wazuh SIEM
 - Custom detection rules for:
@@ -44,7 +44,7 @@ The goal: **Automated detection + response for enterprise & IoT environments**.
 - API key configured for Shuffle enrichment
 
 
-## 🖥 Endpoints
+## Endpoints
 - **Linux Endpoint (Ubuntu on AWS/GCP/Azure)** with Wazuh agent
 - **Windows Endpoint (Local VM)** with Wazuh agent
 
